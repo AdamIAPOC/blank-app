@@ -1,1 +1,7 @@
 streamlit
+python-dotenv
+langchain
+langchain_openai
+pypdf
+faiss-cpu
+streamlit==1.26.0
